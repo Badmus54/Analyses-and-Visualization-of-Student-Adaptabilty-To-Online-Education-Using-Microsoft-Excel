@@ -1,4 +1,4 @@
-# Analyses-and-Visualization-of-Student-Adaptabilty-using-Microsoft-Excel
+# Analyses and Visualization of Student Adaptabilty To Online Education using Microsoft Excel
 
 Online Students Adaptability Project Documentation
 
